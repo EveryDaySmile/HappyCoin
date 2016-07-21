@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="nameSpaceBusiness">"http://business.mjtm.server.webservice.ep"</string>
+
+    <string name="nameSpaceUpdate">"http://system.mjtm.server.webservice.ep"</string>
+
+    <string name ="nameSpacePowerCut">"http://collect.business.mjtm.server.webservice.ep"</string>
+
+    <string name ="nameSpaceBusinessquery">"http://epm.business.mjtm.server.webservice.ep"</string>
+
+    <string name ="nameSpaceBoxMeterUpload">"http://taskinitiator.mjtm.server.webservice.ep"</string>
+
+    <string name ="nameSpaceBussinesstaskCtrlCreate">"http://powercut.mjtm.server.webservice.ep"</string>
+
+    <string name ="nameSpaceBussinesstaskOrderQuery">"http://term.business.mjtm.server.webservice.ep"</string>
+
+</resources>

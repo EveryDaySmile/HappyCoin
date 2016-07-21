@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="code10001">系统错误</string>
+    <string name="code10002">服务端资源不可用</string>
+    <string name="code10003">未知错误</string>
+</resources>
